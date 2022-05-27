@@ -1,0 +1,6 @@
+pytube
+pyTelegramBotAPI
+moviepy
+youtube-search
+smdo
+requests
